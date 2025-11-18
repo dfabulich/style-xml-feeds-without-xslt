@@ -95,3 +95,9 @@ Some of these are possible in pure CSS with clever application of `::before`, bu
 
 I've provided a drop-in example in [`atom-html-transformer.js`](atom-html-transformer.js) and [`rss-html-transformer.js`](rss-html-transformer.js).
 
+It's a decent starting point for you to add additional transformations and bring your own CSS.
+
+## Examples
+
+* [Atom example](https://dfabulich.github.io/style-xml-feeds-without-xslt/atom-example.xml)
+* [RSS example](https://dfabulich.github.io/style-xml-feeds-without-xslt/rss-example.xml)
